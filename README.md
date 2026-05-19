@@ -1,4 +1,4 @@
-# INSTALAR E CONFIGURAR O UBUNTU SERVER EM MAQUINA VIRTUAL
+# INSTALAR E CONFIGURAR O UBUNTU SERVER EM MAQUINA VIRTUAL / João Pedro - 223508
 Objetivo da Atividade
 
 O objetivo desta atividade foi realizar a criação e configuração de uma máquina virtual utilizando o Oracle VM VirtualBox para instalação do sistema operacional Ubuntu Server LTS.
