@@ -1,4 +1,4 @@
-# INSTALAR E CONFIGURA O UBUNTU SERVER EM MAQUINA VIRTUAL
+# INSTALAR E CONFIGURAR O UBUNTU SERVER EM MAQUINA VIRTUAL
 Objetivo da Atividade
 
 O objetivo desta atividade foi realizar a criação e configuração de uma máquina virtual utilizando o Oracle VM VirtualBox para instalação do sistema operacional Ubuntu Server LTS.
@@ -6,8 +6,6 @@ Durante a atividade foram executadas tarefas básicas de administração Linux, 
 A atividade permitiu compreender conceitos fundamentais relacionados à virtualização, administração de servidores Linux e infraestrutura de TI.
 
 Criação da Máquina Virtual
-
-
 
 Criação da VM no VirtualBox;
 Nome da VM;
@@ -126,7 +124,37 @@ systemctl status ssh
 
 O serviço SSH foi validado com sucesso, demonstrando que o servidor está apto a receber conexões remotas.
 
+Conclusão
 
+Qual a diferença entre Ubuntu Desktop e Ubuntu Server?
+
+O Ubuntu Desktop possui interface gráfica voltada para usuários finais, enquanto o Ubuntu Server é otimizado para serviços, administração remota e ambientes corporativos, normalmente sem interface gráfica.
+
+Quais vantagens do Ubuntu Server?
+
+Baixo consumo de recursos;
+Alta estabilidade;
+Segurança;
+Grande comunidade;
+Facilidade de gerenciamento.
+
+Quais dificuldades encontrou?
+
+A principal dificuldade encontrada foi a configuração inicial da rede e familiarização com comandos Linux em ambiente terminal.
+
+Qual a importância do SSH?
+
+O SSH permite acesso remoto seguro ao servidor, sendo fundamental para administração de ambientes Linux em infraestrutura corporativa e cloud computing.
+
+Em quais cenários este sistema operacional pode ser utilizado?
+
+Servidores web;
+Banco de dados;
+Cloud computing;
+Containers Docker;
+Virtualização;
+Servidores de arquivos;
+Ambientes DevOps.
 
 
 
