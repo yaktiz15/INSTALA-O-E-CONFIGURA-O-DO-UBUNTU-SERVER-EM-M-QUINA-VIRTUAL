@@ -87,9 +87,44 @@ Atualização do Sistema
 Executar:
 
 sudo apt update
+
 sudo apt upgrade
 
 <img width="1918" height="1078" alt="Captura de tela 2026-05-18 210746" src="https://github.com/user-attachments/assets/9783f2ca-1aab-4d2c-99ac-5b4449384a4e" />
+
+Descrever:
+
+Foi realizada a atualização da lista de pacotes do sistema utilizando o comando apt update.
+Em seguida foi executado o apt upgrade para instalação das atualizações disponíveis.
+
+Instalação de Pacotes
+
+Executar:
+
+sudo apt install net-tools htop curl wget -y
+
+<img width="1918" height="1076" alt="o" src="https://github.com/user-attachments/assets/2ec8c957-758d-4d2b-9b6a-5f210d61fc17" />
+
+Validar instalação
+htop
+ifconfig
+curl ifconfig.me
+
+<img width="1918" height="1078" alt="htop" src="https://github.com/user-attachments/assets/9c8027d2-5175-44ec-a61f-74f83a6caffe" />
+
+<img width="1918" height="1078" alt="if" src="https://github.com/user-attachments/assets/a19eb33a-090c-4696-abe4-add7ab838444" />
+
+Foram instalados pacotes auxiliares utilizados na administração Linux, monitoramento do sistema e testes de conectividade.
+
+Configuração e Teste de SSH
+
+Executar:
+
+systemctl status ssh
+
+<img width="1918" height="1077" alt="Captura de tela 2026-05-18 211928" src="https://github.com/user-attachments/assets/fe254a72-68e4-4395-8055-7a4cc2a04852" />
+
+O serviço SSH foi validado com sucesso, demonstrando que o servidor está apto a receber conexões remotas.
 
 
 
